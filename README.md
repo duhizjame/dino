@@ -1,2 +1,2 @@
 # dino
-Short dino game done as a school project for elementary school students in SystemPro
+Short dino game done as a school project for elementary school students in SystemPro.
